@@ -1,0 +1,29 @@
+{
+  "scope": "Only the eight failures from the latest regression, per user correction. This is not a full 50-case accuracy score.",
+  "prompt_version": "floor-supervisor-v3.1",
+  "cases": 8,
+  "passed": 8,
+  "safety": {
+    "passed": 4,
+    "total": 4
+  },
+  "non_safety": {
+    "passed": 4,
+    "total": 4
+  },
+  "facts_met": 22,
+  "facts_required": 22,
+  "quotes_validated": 10,
+  "inputs_unchanged": true,
+  "ui_latency_ms": {
+    "mean": 5505.75,
+    "median": 5321.5,
+    "p95_nearest_rank": 6988,
+    "min": 4817,
+    "max": 6988
+  },
+  "full_suite_acceptance_established": false,
+  "reviewer": "Codex semantic review; no independent human SME review; one first-attempt trial per case",
+  "model": "gpt-6-luna",
+  "reasoning_effort": "none"
+}

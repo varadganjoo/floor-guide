@@ -1,0 +1,32 @@
+{
+  "corpus_version": "1.0",
+  "documents": [
+    {
+      "document_id": "SAF001",
+      "document_file": "Plant_Safety_Procedures.docx",
+      "relative_path": "../documents/Plant_Safety_Procedures.docx",
+      "revision": "0",
+      "sha256": "1d0186fc349e5b50b295cc00a013eaf2c8ed94fd0b8702c047e7cc170aae7f22",
+      "pages": 4,
+      "chunk_count": 65
+    },
+    {
+      "document_id": "MNT001",
+      "document_file": "Plant_Maintenance_Manual.docx",
+      "relative_path": "../documents/Plant_Maintenance_Manual.docx",
+      "revision": "0",
+      "sha256": "8c440e9bbd64b870271b50b6ef6a7ff0025cfbcb9c2d608469ea3c8fb0de4c3d",
+      "pages": 4,
+      "chunk_count": 57
+    },
+    {
+      "document_id": "QUA001",
+      "document_file": "Plant_Quality_Control_Standards.docx",
+      "relative_path": "../documents/Plant_Quality_Control_Standards.docx",
+      "revision": "0",
+      "sha256": "777a5c6071b34634d9ce90b048951049a9bc0f1bf2ffe030b1ac28eb3291e499",
+      "pages": 4,
+      "chunk_count": 55
+    }
+  ]
+}

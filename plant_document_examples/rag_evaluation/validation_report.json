@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "dataset_version": "1.0",
+  "case_count": 50,
+  "corpus_chunks": 177,
+  "domain_counts": {
+    "safety": 12,
+    "maintenance": 12,
+    "quality": 12,
+    "cross_document": 8,
+    "missing_information": 6
+  },
+  "answerability_counts": {
+    "answerable": 44,
+    "unanswerable": 6
+  },
+  "difficulty_counts": {
+    "easy": 14,
+    "medium": 25,
+    "hard": 11
+  },
+  "question_type_counts": {
+    "lookup": 19,
+    "procedure": 10,
+    "scenario": 7,
+    "multi_document": 8,
+    "unanswerable": 6
+  },
+  "checks": [
+    "50 unique IDs and question texts",
+    "44 answerable and 6 unanswerable",
+    "12 cases per source domain and 8 cross-document cases",
+    "every evidence reference resolves exactly to the extracted corpus",
+    "page references within the four-page sources",
+    "cross-document cases cite multiple documents",
+    "abstention cases have no positive gold retrieval targets",
+    "length containment arithmetic verified with decimals",
+    "CSV and JSONL values match",
+    "question-only files contain only ID and question",
+    "shuffled questions and empty results preserve gold case IDs",
+    "source file SHA256 hashes match",
+    "random sampler is repeatable and samples without replacement",
+    "sampler rejects invalid sample sizes"
+  ],
+  "review_status": "Agent-authored and source-checked starter set; not independently reviewed by a plant subject-matter expert.",
+  "limitations": [
+    "No RAG system has been run or scored.",
+    "Structural checks do not independently prove semantic correctness.",
+    "The set covers these fictional example documents only."
+  ],
+  "package_validation": "passed"
+}

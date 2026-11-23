@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PLANT-RAG-024",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-032",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-022",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-044",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-044",
+    "number": 2,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-044",
+    "number": 3,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-031",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-023",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-033",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  },
+  {
+    "id": "PLANT-RAG-007",
+    "number": 1,
+    "exact_source_and_answer_match": true
+  }
+]

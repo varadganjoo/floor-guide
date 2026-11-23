@@ -1,0 +1,154 @@
+{
+  "PLANT-RAG-024": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "The example review is monthly and covers recurring faults, overdue work, and unplanned downtime.",
+        "met": true
+      },
+      {
+        "fact": "Equipment, software, safety-function, and task changes require engineering review and updated training before use.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  },
+  "PLANT-RAG-032": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "Hold material with missing or mismatched evidence.",
+        "met": true
+      },
+      {
+        "fact": "Check every receipt for identity, quantity, condition, lot labels, and required supplier documents.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  },
+  "PLANT-RAG-022": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "Remove the asset from service.",
+        "met": true
+      },
+      {
+        "fact": "A competent person diagnoses and validates the function.",
+        "met": true
+      },
+      {
+        "fact": "Do not bypass for production.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  },
+  "PLANT-RAG-044": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "Maintenance handover records first-piece inspection and held product and includes Quality approval if required.",
+        "met": true
+      },
+      {
+        "fact": "Quality requires passing inspections and traceability plus closed holds or a valid concession.",
+        "met": true
+      },
+      {
+        "fact": "Labels and packaging must comply and the designated Quality authority signs and dates release.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  },
+  "PLANT-RAG-031": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "Every part is checked.",
+        "met": true
+      },
+      {
+        "fact": "Check length, hole diameter, center spacing, and edge or surface condition.",
+        "met": true
+      },
+      {
+        "fact": "Record results and stop and contain on any failure.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  },
+  "PLANT-RAG-023": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "Production witnesses the operating check.",
+        "met": true
+      },
+      {
+        "fact": "Quality approves first-piece checks when product may be affected.",
+        "met": true
+      },
+      {
+        "fact": "Record results against limits and keep the asset unavailable on a required-check failure.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  },
+  "PLANT-RAG-033": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "Traceability alone does not prove suitability.",
+        "met": true
+      },
+      {
+        "fact": "Check unique ID, range and capability, calibration currency, and condition.",
+        "met": true
+      },
+      {
+        "fact": "Support the calibration chain and account for uncertainty.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  },
+  "PLANT-RAG-007": {
+    "strict_pass": true,
+    "required_facts": [
+      {
+        "fact": "Prevent stored-energy reaccumulation.",
+        "met": true
+      },
+      {
+        "fact": "Verify isolation by approved methods before work.",
+        "met": true
+      },
+      {
+        "fact": "Return test controls to a safe state.",
+        "met": true
+      }
+    ],
+    "material_unsupported_claims": [],
+    "citation_support": true,
+    "review": "Codex semantic review of short answer and complete evidence passages displayed in answer; gold passage matches used as supporting evidence, not as a standalone keyword grader."
+  }
+}

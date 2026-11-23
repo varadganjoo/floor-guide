@@ -1,0 +1,7 @@
+{
+  "topics": [
+    {"id": "safety", "name": "Safety procedures", "description": "Workplace hazards, safe-work boundaries, PPE, hazardous-energy isolation, emergencies, and reporting unsafe conditions.", "documents": [{"id": "plant-safety", "path": "plant_document_examples/documents/Plant_Safety_Procedures.docx", "title": "Plant Safety Procedures", "revision": "0"}]},
+    {"id": "maintenance", "name": "Maintenance manuals", "description": "Asset records, preventive maintenance, inspections, faults, repairs, and return-to-service checks.", "documents": [{"id": "plant-maintenance", "path": "plant_document_examples/documents/Plant_Maintenance_Manual.docx", "title": "Plant Maintenance Manual", "revision": "0"}]},
+    {"id": "quality", "name": "Quality control standards", "description": "Product requirements, measurement and inspection, acceptance criteria, traceability, nonconforming product, and release authority.", "documents": [{"id": "plant-quality", "path": "plant_document_examples/documents/Plant_Quality_Control_Standards.docx", "title": "Plant Quality Control Standards", "revision": "0"}]}
+  ]
+}

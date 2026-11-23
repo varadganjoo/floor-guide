@@ -1,0 +1,582 @@
+[
+  {
+    "case_id": "PLANT-RAG-026",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-024",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-024",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-020",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-020",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-012",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-012",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-005",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-005",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-046",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-046",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-046",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-027",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-010",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-010",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-030",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-030",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-017",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-017",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-017",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-032",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-032",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-022",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-022",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-013",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-013",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-004",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-004",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-004",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-040",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-040",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-040",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-040",
+    "number": 4,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-039",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-039",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-039",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-039",
+    "number": 4,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-039",
+    "number": 5,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-039",
+    "number": 6,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-011",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-011",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-025",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-036",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-036",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-001",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-001",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-019",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-019",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-034",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-049",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-049",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-042",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-042",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-042",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-042",
+    "number": 4,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-031",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-031",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-029",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-029",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-029",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-021",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-021",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-023",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-023",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-043",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-043",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-043",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-047",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-047",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-037",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-037",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-037",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-037",
+    "number": 4,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-037",
+    "number": 5,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-037",
+    "number": 6,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-033",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-033",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-045",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-014",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-014",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-050",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-048",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-048",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-003",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-003",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-028",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-028",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-028",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-038",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-006",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-006",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-006",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-035",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-035",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-035",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-007",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-007",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-009",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-009",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-009",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-015",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-015",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-016",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-016",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-016",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-018",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-018",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-002",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-002",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-002",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-008",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-008",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-008",
+    "number": 3,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-041",
+    "number": 1,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-041",
+    "number": 2,
+    "valid": true
+  },
+  {
+    "case_id": "PLANT-RAG-041",
+    "number": 3,
+    "valid": true
+  }
+]

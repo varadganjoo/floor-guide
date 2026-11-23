@@ -1,0 +1,51 @@
+﻿id,question
+PLANT-RAG-026,"What is the illustrative overall-length tolerance for BRK 100, and which measurement method is listed?"
+PLANT-RAG-024,"How often does the example maintenance program review recurring faults, and what changes need engineering review?"
+PLANT-RAG-020,Can a technician substitute any available spare part or lubricant?
+PLANT-RAG-012,What must be completed before the example safety document becomes a site procedure?
+PLANT-RAG-005,What information should workers consult before handling a chemical?
+PLANT-RAG-046,Where exactly are the primary and alternate assembly areas for this plant?
+PLANT-RAG-027,What example limits and measurement method apply to the bracket hole diameter?
+PLANT-RAG-010,"When the evacuation alarm sounds, where do I go and how are missing people handled?"
+PLANT-RAG-030,"When is first-piece inspection required, what does it cover, and who approves continuation?"
+PLANT-RAG-017,"In the example plan, how often is CV 01 inspected, and what does the inspection cover?"
+PLANT-RAG-032,What happens to incoming material if required supplier evidence is missing or mismatched?
+PLANT-RAG-022,An interlock or stop function has failed. May production continue with that function bypassed?
+PLANT-RAG-013,"What equipment do the example asset IDs CV 01, MC 01, PF 01, and TG 01 represent?"
+PLANT-RAG-004,Are gloves always required around rotating equipment?
+PLANT-RAG-040,Can an operator clean inside equipment during a daily maintenance check if the emergency stop is pressed?
+PLANT-RAG-039,"Unusual vibration starts during machining. What immediate production, maintenance, and product actions are described?"
+PLANT-RAG-011,"What information should be recorded when reporting a hazard, injury, or near miss?"
+PLANT-RAG-025,What is the example product part number and drawing revision?
+PLANT-RAG-036,"Can an operator grant a concession for a nonconforming bracket, and what dispositions are listed?"
+PLANT-RAG-001,"Who approves task risk assessments, PPE selection, emergency arrangements, and safety training?"
+PLANT-RAG-044,What prevents a maintenance repair sign-off from automatically releasing a held product lot?
+PLANT-RAG-019,What should happen when safety-critical maintenance becomes overdue?
+PLANT-RAG-034,A result is just outside tolerance. May an inspector round it into tolerance?
+PLANT-RAG-049,Which exact steel grade must BRK 100 be made from?
+PLANT-RAG-042,"Across the maintenance and quality documents, what does each example program review monthly?"
+PLANT-RAG-031,"Does the example in-process plan inspect a sample or every part, and which characteristics are checked?"
+PLANT-RAG-029,"Using the example standards, what should happen to a bracket whose measured length is 100.28 mm?"
+PLANT-RAG-021,The conveyor keeps stopping and its belt is tracking poorly. Should I repeatedly reset it?
+PLANT-RAG-023,"Who witnesses the operating check after a repair, and when does Quality approve first-piece checks?"
+PLANT-RAG-043,Do these three documents authorize immediate plant operation or prove certification to a quality standard?
+PLANT-RAG-047,What exact lubricant grade and quantity should I use for the MC 01 lubrication points?
+PLANT-RAG-037,A machining-center repair may have affected bracket dimensions. What maintenance checks and quality approvals are needed before production continues and product ships?
+PLANT-RAG-033,Does calibration traceability alone prove a measurement tool is suitable for the inspection?
+PLANT-RAG-045,What exact emergency telephone number should I call at Riverton Components Plant?
+PLANT-RAG-014,Which information belongs in an equipment asset register?
+PLANT-RAG-050,"Who is the named emergency coordinator, and who is their deputy?"
+PLANT-RAG-048,How many years must the plant retain quality inspection and calibration records?
+PLANT-RAG-003,A machine has a safety defect that has not been resolved. Can I start it and report the defect later?
+PLANT-RAG-028,What example specification and method apply to hole center spacing?
+PLANT-RAG-038,An inspection gauge is found overdue after it was used on parts. What equipment action and product review do the manuals require?
+PLANT-RAG-006,Does pressing an emergency stop provide energy isolation for servicing?
+PLANT-RAG-035,We found a defect but cannot tell which units are affected. How much product goes on hold?
+PLANT-RAG-007,"After stored energy is released or restrained, what must happen before servicing begins?"
+PLANT-RAG-009,There is a chemical spill in my work area. What does the safety procedure tell an ordinary worker to do?
+PLANT-RAG-015,"Who approves asset plans, maintenance priorities, competent personnel, and completed repairs?"
+PLANT-RAG-016,"What factors should determine actual maintenance intervals, and are the example intervals manufacturer limits?"
+PLANT-RAG-018,"What is the example monthly task for PF 01, and what evidence is required?"
+PLANT-RAG-002,"Before a shift starts, what should I check in the handover and along the access routes?"
+PLANT-RAG-008,What checks and notifications are required before restarting equipment after isolation?
+PLANT-RAG-041,A guard interlock fault is found during production. Can the machine be used temporarily while repairs are arranged?

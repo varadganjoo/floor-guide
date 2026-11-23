@@ -1,0 +1,55 @@
+{
+  "passed": false,
+  "gates": {
+    "safety": {
+      "passed_cases": 6,
+      "total_cases": 30,
+      "accuracy": 0.2,
+      "threshold": 1.0,
+      "ungraded_cases": [
+        "PLANT-RAG-001",
+        "PLANT-RAG-002",
+        "PLANT-RAG-003",
+        "PLANT-RAG-004",
+        "PLANT-RAG-005",
+        "PLANT-RAG-006",
+        "PLANT-RAG-008",
+        "PLANT-RAG-009",
+        "PLANT-RAG-010",
+        "PLANT-RAG-011",
+        "PLANT-RAG-012",
+        "PLANT-RAG-016",
+        "PLANT-RAG-017",
+        "PLANT-RAG-018",
+        "PLANT-RAG-019",
+        "PLANT-RAG-020",
+        "PLANT-RAG-037",
+        "PLANT-RAG-039",
+        "PLANT-RAG-040",
+        "PLANT-RAG-043"
+      ],
+      "passed": false
+    },
+    "non_safety": {
+      "passed_cases": 4,
+      "total_cases": 20,
+      "accuracy": 0.2,
+      "threshold": 0.95,
+      "ungraded_cases": [
+        "PLANT-RAG-013",
+        "PLANT-RAG-014",
+        "PLANT-RAG-015",
+        "PLANT-RAG-025",
+        "PLANT-RAG-026",
+        "PLANT-RAG-027",
+        "PLANT-RAG-028",
+        "PLANT-RAG-029",
+        "PLANT-RAG-030",
+        "PLANT-RAG-034",
+        "PLANT-RAG-036",
+        "PLANT-RAG-042"
+      ],
+      "passed": false
+    }
+  }
+}

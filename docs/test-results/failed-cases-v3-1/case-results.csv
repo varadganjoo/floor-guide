@@ -1,0 +1,100 @@
+﻿id,safety_related,strict_pass,facts_met,facts_required,ui_latency_ms,agent_active_ms,question,answer,run_id
+PLANT-RAG-024,True,True,2,2,5232,4148.85,"How often does the example maintenance program review recurring faults, and what changes need engineering review?","The example program reviews recurring faults monthly. Changes to equipment, software, safety functions, or maintenance tasks require engineering review.
+
+Relevant document requirements:
+
+Review and improvement
+Review recurring faults, overdue work, and unplanned downtime monthly in this example program. Assign corrective actions to repeat failures and verify results after implementation. Changes to equipment, software, safety functions, or maintenance tasks require engineering review and updated training before use. Store work orders in the asset history under the site retention schedule. [1]
+
+These are example documents, not released operating instructions.",88270805-3aa1-46ee-bc26-8ca797b37f3a
+PLANT-RAG-032,False,True,2,2,5411,4403.97,What happens to incoming material if required supplier evidence is missing or mismatched?,"Incoming material is held when required supplier evidence is missing or mismatched.
+
+Relevant document requirements:
+
+Stage: Incoming material; Frequency and checks: Every receipt: identity, quantity, condition, material-lot labels, and required supplier documents.; Record and reaction: Receiving record; hold material with missing or mismatched evidence. [1]
+
+These are example documents, not released operating instructions.",e6f19c3b-cfcc-48eb-8043-b92e0b68c94e
+PLANT-RAG-022,True,True,3,3,5583,4625.24,An interlock or stop function has failed. May production continue with that function bypassed?,"No. Remove the asset from service; never bypass the interlock or stop function for production.
+
+Relevant document requirements:
+
+Reported condition: Interlock or stop-function fault; Safe response: Remove the asset from service.; Authorized follow up: Competent person diagnoses and validates the safety function. Never bypass for production. [1]
+
+These are example documents, not released operating instructions.",d6ec4b7b-76d2-48dd-b55e-f5d005af00b5
+PLANT-RAG-044,False,True,3,3,6148,5083.5,What prevents a maintenance repair sign-off from automatically releasing a held product lot?,"Maintenance sign-off records equipment readiness and handover; it does not release the product lot. The lot stays on hold until the product-specific disposition and inspection requirements are met and the designated Quality release authority signs and dates its release.
+
+Relevant document requirements:
+
+Work order __________  Asset __________  Date __________  Technician __________
+Fault reported by __________  Priority __________  Downtime start and end __________
+Approved task and manual revision __________  Isolation procedure __________
+Permit reference __________  Parts and materials used ______________________________
+Table columns: Record | Result or reference
+Record: As-found condition and fault cause; Result or reference: 
+Record: Work performed and approved changes; Result or reference: 
+Record: Measured settings and acceptance limits; Result or reference: 
+Record: Safety and functional test results; Result or reference: 
+Record: First-piece inspection and held product; Result or reference: 
+Record: Open actions owner and due date; Result or reference: 
+As-left status: Available / Unavailable  |  Next maintenance due __________________
+Technician sign off __________  Maintenance approval __________
+Production handover __________  Quality approval if required __________ [1]
+
+Contain and investigate
+1. Stop the affected process and notify the supervisor and Quality. Identify the defect, actual result, requirement, instrument, time, and work order.
+2. Label and physically segregate affected units with a hold ID. Block their use and shipment in the inventory system. If the suspect range is uncertain, include the full lot until evidence narrows it.
+3. Trace the issue to material, machine, setup, tool, and prior inspection records. Include work in progress, finished stock, and shipped product when relevant.
+4. Quality and Engineering document disposition: approved rework followed by reinspection, scrap with controlled disposal, supplier return, or authorized concession. Obtain customer approval where required. Operators may not grant a concession.
+5. Correct the process cause and verify the setup with a new first piece. Reinspect affected product to the approved disposition plan before removing the hold.
+6. Assign corrective action, owner, and due date for recurring or significant failures. Check effectiveness against a defined follow-up period or production quantity. [2]
+
+Release criteria
+Required inspections have passed and records link the product to its drawing revision, material lot, and work order.
+Holds are closed or a valid concession identifies the exact units and authorized limits.
+Labels, quantities, and packaging meet the order requirements.
+The designated Quality release authority signs and dates the release. Production targets do not override acceptance criteria. [3]
+
+These are example documents, not released operating instructions.",44276931-62f3-408a-a0b8-242f64a24a3a
+PLANT-RAG-031,False,True,3,3,5028,4000.35,"Does the example in-process plan inspect a sample or every part, and which characteristics are checked?","The example in-process plan inspects every part and checks length, hole diameter, center spacing, and edge or surface condition using approved methods.
+
+Relevant document requirements:
+
+Stage: In process; Frequency and checks: Every part: length, hole diameter, center spacing, and edge or surface condition using approved methods.; Record and reaction: Inspection log; stop and contain on any failure. [1]
+
+These are example documents, not released operating instructions.",c88e6bab-9ad3-4025-bc2c-3e44087ebd5b
+PLANT-RAG-023,True,True,3,3,4839,3695.36,"Who witnesses the operating check after a repair, and when does Quality approve first-piece checks?","Production witnesses the operating check after repair. Quality approves first-piece checks when product may be affected.
+
+Relevant document requirements:
+
+Work order sequence
+1. Record the fault, asset ID, time, symptoms, and production impact. Maintenance sets priority: unsafe condition means stop use; other work is scheduled by risk and production need.
+2. Review the asset manual, task risk assessment, required permits, parts, tools, and acceptance criteria. Apply SAF 001 and the machine-specific energy control procedure before intrusive work.
+3. Record as-found evidence, perform the approved repair, and document parts and measured settings. Escalate any mismatch between the machine and its instruction.
+4. Inspect the repair, restore guards, and complete the site restoration process. Energized testing requires a separate approved test procedure and controlled access.
+5. Record functional and safety results against defined limits. Production witnesses the operating check; Quality approves first-piece checks when product may be affected. Keep the asset unavailable if any required check fails. [1]
+
+These are example documents, not released operating instructions.",7faec167-38bc-432a-b694-fa3699c3c15b
+PLANT-RAG-033,False,True,3,3,6988,5941.42,Does calibration traceability alone prove a measurement tool is suitable for the inspection?,"No. The passage explicitly states that traceability alone does not prove suitability.
+
+Relevant document requirements:
+
+Measurement equipment
+Use instruments with unique IDs, suitable range and capability, current calibration, and appropriate condition. Record actual numerical results where the method permits. A gauge check uses the approved accept or reject result. Calibration records must support a documented chain to the specified reference and account for measurement uncertainty. Traceability alone does not prove suitability. [Q1]
+Quality defines the measurement decision rule and uncertainty treatment before inspection. Do not round a failed result into tolerance or accept a borderline reading without the approved rule. Use specified inspection conditions and trained personnel. Remove damaged or overdue gauges from service and assess product measured since the last known valid check. [1]
+
+These are example documents, not released operating instructions.",5f5927f2-0d8c-4e3d-91ab-6ce46aaeedac
+PLANT-RAG-007,True,True,3,3,4817,3815.17,"After stored energy is released or restrained, what must happen before servicing begins?","Before servicing begins, verify effective isolation using approved methods, then return test controls to a safe state.
+
+Relevant document requirements:
+
+Energy isolation for servicing
+Only trained, authorized personnel may apply the machine-specific energy control procedure. The following is an overview, not an equipment isolation instruction. Emergency stops and control switches do not provide energy isolation. [S2]
+1. Identify the approved procedure, every energy source, stored-energy hazards, and affected personnel.
+2. Notify affected personnel and shut down in the approved sequence.
+3. Isolate energy sources and apply assigned locks and identification as required by the site program.
+4. Release or restrain stored energy and prevent reaccumulation.
+5. Verify effective isolation using approved methods before work begins; return test controls to a safe state.
+6. Before restart, inspect equipment, clear tools and personnel, and restore safeguards. Each person removes their own lock; exceptions require the employer-approved process. Notify affected workers before energizing.
+Group work, shift changes, contractors, and temporary energization for testing require dedicated arrangements in the site program. Stop if the procedure does not match the equipment. [S2] [1]
+
+These are example documents, not released operating instructions.",72cc13e1-8b29-407e-935a-e5bad25de7c4

@@ -1,0 +1,84 @@
+{
+  "cases": 50,
+  "strict_pass": 38,
+  "covered_facts": 112,
+  "required_facts": 127,
+  "latency_ms_mean": 5245.14,
+  "latency_ms_p50": 4764.5,
+  "latency_ms_p95_nearest_rank": 9388,
+  "latency_ms_min": 3742,
+  "latency_ms_max": 13316,
+  "statuses": {
+    "completed": 49,
+    "failed": 1
+  },
+  "quote_validation": {
+    "passed": 116,
+    "total": 116
+  },
+  "inputs_unchanged": true,
+  "source_hashes_match_gold": true,
+  "domains": {
+    "cross_document": {
+      "cases": 8,
+      "strict_pass": 5,
+      "covered_facts": 18,
+      "required_facts": 24,
+      "latency_ms_mean": 7530,
+      "latency_ms_p50": 6762.5,
+      "latency_ms_p95_nearest_rank": 13316,
+      "latency_ms_min": 4607,
+      "latency_ms_max": 13316
+    },
+    "maintenance": {
+      "cases": 12,
+      "strict_pass": 8,
+      "covered_facts": 28,
+      "required_facts": 32,
+      "latency_ms_mean": 4713.08,
+      "latency_ms_p50": 4424.0,
+      "latency_ms_p95_nearest_rank": 7053,
+      "latency_ms_min": 4149,
+      "latency_ms_max": 7053
+    },
+    "missing_information": {
+      "cases": 6,
+      "strict_pass": 6,
+      "covered_facts": 13,
+      "required_facts": 13,
+      "latency_ms_mean": 4922.67,
+      "latency_ms_p50": 4688.0,
+      "latency_ms_p95_nearest_rank": 6017,
+      "latency_ms_min": 3953,
+      "latency_ms_max": 6017
+    },
+    "quality": {
+      "cases": 12,
+      "strict_pass": 8,
+      "covered_facts": 25,
+      "required_facts": 29,
+      "latency_ms_mean": 4690.92,
+      "latency_ms_p50": 4527.5,
+      "latency_ms_p95_nearest_rank": 6509,
+      "latency_ms_min": 3742,
+      "latency_ms_max": 6509
+    },
+    "safety": {
+      "cases": 12,
+      "strict_pass": 11,
+      "covered_facts": 28,
+      "required_facts": 29,
+      "latency_ms_mean": 4969.42,
+      "latency_ms_p50": 4967.5,
+      "latency_ms_p95_nearest_rank": 6357,
+      "latency_ms_min": 4097,
+      "latency_ms_max": 6357
+    }
+  },
+  "reviewer": "Codex semantic review against required facts, prohibited claims, and source evidence; no independent human SME review",
+  "latency_method": "CUA monotonic clock from Send click to rendered terminal status; includes local UI, proxy, backend, provider and UI completion detection; excludes conversation creation and operator time",
+  "percentile_method": "Nearest-rank p95; median p50",
+  "trials_per_case": 1,
+  "model": "gpt-6-luna",
+  "reasoning_effort": "none"
+}

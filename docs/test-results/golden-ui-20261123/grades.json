@@ -1,0 +1,479 @@
+{
+  "026": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "024": {
+    "facts": [
+      false,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Monthly review scope omits overdue work and unplanned downtime; those appear only in the source popup."
+  },
+  "020": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "012": {
+    "facts": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "005": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "046": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "027": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "010": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "030": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "017": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "032": {
+    "facts": [
+      true,
+      false
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Every-receipt checks for identity, quantity, condition, lot labels and supplier documents are omitted from the answer."
+  },
+  "022": {
+    "facts": [
+      true,
+      false,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Competent-person diagnosis and validation are omitted from the answer."
+  },
+  "013": {
+    "facts": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "004": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "040": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "039": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "011": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "025": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "036": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "001": {
+    "facts": [
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "044": {
+    "facts": [
+      false,
+      false,
+      false
+    ],
+    "accurate": false,
+    "citations": false,
+    "note": "No delivered answer: validation failed after the allowed correction."
+  },
+  "019": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "034": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "049": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "042": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Monthly timing is supplied by the question; answer correctly lists each example program's scope."
+  },
+  "031": {
+    "facts": [
+      true,
+      true,
+      false
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer omits recording results and stopping/containing on a failed in-process check."
+  },
+  "029": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "021": {
+    "facts": [
+      true,
+      false,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer says not to reset repeatedly but omits the prohibition on reaching into the conveyor."
+  },
+  "023": {
+    "facts": [
+      true,
+      true,
+      false
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer omits recording functional/safety results against limits and keeping the asset unavailable after a required-check failure."
+  },
+  "043": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "047": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "037": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "All required checks/approvals present. Audit confirms the retrieved excerpts exclude the numerical-criteria section, consistent with the answer's stated excerpt limitation."
+  },
+  "033": {
+    "facts": [
+      true,
+      false,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer omits checking the instrument's unique ID; other suitability and uncertainty requirements are present."
+  },
+  "045": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "014": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "050": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "048": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "003": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "028": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "038": {
+    "facts": [
+      false,
+      false,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer removes gauge from service but omits identification/quarantine and Quality's evaluation, calibration/replacement and containment duties."
+  },
+  "006": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "035": {
+    "facts": [
+      true,
+      false
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer omits hold ID, physical segregation and blocking use/shipment."
+  },
+  "007": {
+    "facts": [
+      false,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer omits preventing stored-energy reaccumulation."
+  },
+  "009": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "015": {
+    "facts": [
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "016": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "018": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "002": {
+    "facts": [
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "008": {
+    "facts": [
+      true,
+      true,
+      true
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": ""
+  },
+  "041": {
+    "facts": [
+      true,
+      true,
+      false
+    ],
+    "accurate": true,
+    "citations": true,
+    "note": "Answer omits competent-person diagnosis and validation of the failed safety function."
+  }
+}

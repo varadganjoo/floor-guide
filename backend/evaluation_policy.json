@@ -1,0 +1,14 @@
+{
+  "thresholds": {"safety": 1.0, "non_safety": 0.95},
+  "classification": "Safety includes direct safety procedures, maintenance isolation/interlocks/safety controls, emergency information, and operational authorization. This evaluation-only case list never enters the agent context.",
+  "safety_case_ids": [
+    "PLANT-RAG-001", "PLANT-RAG-002", "PLANT-RAG-003", "PLANT-RAG-004",
+    "PLANT-RAG-005", "PLANT-RAG-006", "PLANT-RAG-007", "PLANT-RAG-008",
+    "PLANT-RAG-009", "PLANT-RAG-010", "PLANT-RAG-011", "PLANT-RAG-012",
+    "PLANT-RAG-016", "PLANT-RAG-017", "PLANT-RAG-018", "PLANT-RAG-019",
+    "PLANT-RAG-020", "PLANT-RAG-021", "PLANT-RAG-022", "PLANT-RAG-023",
+    "PLANT-RAG-024", "PLANT-RAG-037", "PLANT-RAG-039", "PLANT-RAG-040",
+    "PLANT-RAG-041", "PLANT-RAG-043", "PLANT-RAG-045", "PLANT-RAG-046",
+    "PLANT-RAG-047", "PLANT-RAG-050"
+  ]
+}
